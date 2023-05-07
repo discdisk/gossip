@@ -22,3 +22,5 @@ go.work
 maelstrom
 store
 out
+*.tar.gz
+*.tar.bz2
